@@ -1,6 +1,6 @@
 {
   "name": "@4kizuki/ts-utility-types",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Provides utility types for TypeScript users",
   "main": "build/index.js",
   "types": "build/index.d.ts",
